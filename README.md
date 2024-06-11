@@ -8,5 +8,3 @@
 7. Complete the Machine Learning Prediction
 
 ### files are also in the personal d:/ drive. github repo for coursera purposes. 
-#### file name structure:
-* 01_title_of_lab_MM_DD_YYYY
